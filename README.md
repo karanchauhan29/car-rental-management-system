@@ -26,4 +26,4 @@ npm install
 npm start  
 
 ## 👨‍💻 Author
-Harsh Srivastava
+Karan chauhan
